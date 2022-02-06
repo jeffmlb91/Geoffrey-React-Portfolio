@@ -18,6 +18,65 @@ function Service() {
       </div>
       <div className="container">
         <div className="row">
+          <div className="col__3">
+            <div className="service__box pointer">
+              <div className="icon">
+                <svg
+                  stroke="currentColor"
+                  fill="none"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  height="1em"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                  <line x1="8" y1="21" x2="16" y2="21"></line>
+                  <line x1="12" y1="17" x2="12" y2="21"></line>
+                </svg>
+              </div>
+              <div className="service__meta">
+                <h1 className="service__text">Front-End</h1>
+                <p className="p service__text p__color">
+                  The front end technologies{" "}
+                </p>
+                <p className="p service__text p__color">are really essential</p>
+                <p className="p service__text p__color">for user experience</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col__3">
+            <div className="service__box pointer">
+              <div className="icon">
+                <svg
+                  stroke="currentColor"
+                  fill="none"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  height="1em"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+                  <polyline points="2 17 12 22 22 17"></polyline>
+                  <polyline points="2 12 12 17 22 12"></polyline>
+                </svg>
+              </div>
+              <div className="service__meta">
+                <h1 className="service__text">Back-End</h1>
+                <p className="p service__text p__color">
+                  The front end technologies{" "}
+                </p>
+                <p className="p service__text p__color">are really essential</p>
+                <p className="p service__text p__color">for user experience</p>
+              </div>
+            </div>
+          </div>
 
           <div className="col__3">
             <div className="service__box pointer">
@@ -39,8 +98,11 @@ function Service() {
               </div>
               <div className="service__meta">
                 <h1 className="service__text">Front-End</h1>
-                <p className="p service__text p__color">The front end technologies are really essential for user experience</p>
-                <p className="p service__text p__color">The front end technologies are really essential for user experience</p>
+                <p className="p service__text p__color">
+                  The front end technologies{" "}
+                </p>
+                <p className="p service__text p__color">are really essential</p>
+                <p className="p service__text p__color">for user experience</p>
               </div>
             </div>
           </div>
@@ -63,7 +125,14 @@ function Service() {
                   <line x1="2" y1="20" x2="2" y2="20"></line>
                 </svg>
               </div>
-              <div className="service__meta"></div>
+              <div className="service__meta">
+                <h1 className="service__text">Front-End</h1>
+                <p className="p service__text p__color">
+                  The front end technologies{" "}
+                </p>
+                <p className="p service__text p__color">are really essential</p>
+                <p className="p service__text p__color">for user experience</p>
+              </div>
             </div>
           </div>
 
@@ -85,10 +154,16 @@ function Service() {
                   <line x1="2" y1="20" x2="2" y2="20"></line>
                 </svg>
               </div>
-              <div className="service__meta"></div>
+              <div className="service__meta">
+                <h1 className="service__text">Front-End</h1>
+                <p className="p service__text p__color">
+                  The front end technologies{" "}
+                </p>
+                <p className="p service__text p__color">are really essential</p>
+                <p className="p service__text p__color">for user experience</p>
+              </div>
             </div>
           </div>
-
         </div>
       </div>
     </div>

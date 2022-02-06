@@ -34,7 +34,7 @@ function Home() {
               Hi, I'm Geoffrey
             </h2>
             <h3 className="home__text sweet">
-                I'm a Full Stack Developer
+                I'm a Full Stack Engineer
             </h3>
           </div>
         </div>
