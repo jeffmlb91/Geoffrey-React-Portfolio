@@ -25,11 +25,7 @@ function About() {
 
               <p className="about__text p__color">
                 I'm a toronto base Full Stack Engineer who graduated from the
-                University of Toronto Class of Continuing Studies. I love to
-                take challenges and we are opened to work on your projects. My
-                Goal is to make programming a second nature. Not just because I
-                like to code, but because of the things that can be accomplished
-                acquiring that skill.
+                University of Toronto Class of Continuing Studies.
               </p>
               <div className="about__button d__flex  align__items__center">
                 <a href="#"><button className="about btn pointer">Download CV</button></a>
